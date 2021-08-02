@@ -1,4 +1,4 @@
 # spotify
-spotify web site reproduction for education
+spotify web site reproduction for educational purposes
 
 view: https://alexander-brandao.github.io/spotify/
