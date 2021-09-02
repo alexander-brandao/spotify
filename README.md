@@ -9,7 +9,7 @@ view: https://alexander-brandao.github.io/spotify/
 </p>
   
 <p> 
-<img align="center" width="500" height="800" src="https://raw.githubusercontent.com/alexander-brandao/spotify/main/imagens/desktop2.png"
+<img align="center" width="800" height="700" src="https://raw.githubusercontent.com/alexander-brandao/spotify/main/imagens/desktop2.png"
 </p>
   
 ## Mobile:
