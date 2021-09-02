@@ -15,5 +15,5 @@ view: https://alexander-brandao.github.io/spotify/
 ## Mobile:
 
 <p> 
-<img align="center" width="500" height="700" src="https://raw.githubusercontent.com/alexander-brandao/spotify/main/imagens/mobile.png"
+<img align="center" width="600" height="700" src="https://raw.githubusercontent.com/alexander-brandao/spotify/main/imagens/mobile.png"
 </p>
